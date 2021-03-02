@@ -27,6 +27,7 @@ I'm Simon Stranks, a self-taught developer from London.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 1 - First Week of Learning; Summary!](https://dev.to/sstranks/week-1-first-week-of-learning-summary-2eo4)
 <!-- BLOG-POST-LIST:END -->
 
 NOTE: Top Languages does not indicate skill level. It's a GitHub metric of which languages have the most code on my GitHub.

@@ -28,3 +28,7 @@ I'm Simon Stranks, a self-taught developer from London.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+NOTE: Top Languages does not indicate skill level. It's a GitHub metric of which languages have the most code on my GitHub.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SStranks&layout=compact)](https://github.com/SStranks/github-readme-stats)

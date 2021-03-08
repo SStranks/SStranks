@@ -15,9 +15,9 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/HTML.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CSS.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Js.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Github.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/JS.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ai.png" />

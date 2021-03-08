@@ -19,7 +19,7 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="Git" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
+<img align="left" alt="Terminal" width="26px" title ="AutoCAD" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ai.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ps.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VBA.png" />

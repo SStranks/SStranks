@@ -29,8 +29,8 @@ I'm Simon Stranks, a self-taught developer from London.
 
 ### Preferred Dev Environment:
 
-<img align="left" alt="CSS3" width="28px" title ="Microsoft Windows" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/OS_Windows.png" />
-<img align="left" alt="CSS3" width="28px" title ="Chrome" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Chrome.png" />
+<img align="left" alt="CSS3" width="26px" title ="Microsoft Windows" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/OS_Windows.png" />
+<img align="left" alt="CSS3" width="26px" title ="Chrome" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Chrome.png" />
 <img align="left" alt="Visual Studio Code" title ="VSCode" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
 
 <br>

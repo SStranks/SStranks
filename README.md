@@ -19,10 +19,10 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="Git" width="26px" title ="GIT" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
 <img align="left" alt="GitHub" width="26px" title ="GitHub" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
 <img align="left" alt="Terminal" width="26px" title ="Terminal" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
+<img align="left" alt="Terminal" width="26px" title ="VBA" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VBA.png" />
 <img align="left" alt="Terminal" width="26px" title ="AutoCAD" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
 <img align="left" alt="Terminal" width="26px" title ="Adobe Illustrator" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ai.png" />
 <img align="left" alt="Terminal" width="26px" title ="Adobe Photoshop" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ps.png" />
-<img align="left" alt="Terminal" width="26px" title ="VBA" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VBA.png" />
 
 <br>
 <br>

@@ -41,11 +41,11 @@ I'm Simon Stranks, a self-taught developer from London.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 6-13 - Summary](https://dev.to/sstranks/week-6-13-summary-14me)
 - [Week 5 - Summary](https://dev.to/sstranks/week-5-summary-1m49)
 - [Week 4 - Summary](https://dev.to/sstranks/week-4-summary-4ja4)
 - [Week 3 - Summary](https://dev.to/sstranks/week-3-summary-41ek)
 - [Week 2 - Summary](https://dev.to/sstranks/week-2-summary-3kdd)
-- [Week 1 - First Week of Learning; Summary!](https://dev.to/sstranks/week-1-first-week-of-learning-summary-2eo4)
 <!-- BLOG-POST-LIST:END -->
 
 ---

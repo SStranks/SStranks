@@ -33,7 +33,7 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="MicrosoftWindows" width="26px" title ="Microsoft Windows" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/OS_Windows.png" />
 <img align="left" alt="GoogleChrome" width="26px" title ="Chrome" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Chrome.png" />
 <img align="left" alt="Visual Studio Code" title ="VSCode" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
-<img align="left" alt="MicrosoftSQLServerManagementStudio" title ="VSCode" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SMSS.png" />
+<img align="left" alt="MicrosoftSQLServerManagementStudio" title ="MicrosoftSQLServerManagementStudio" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SMSS.png" />
 
 <br>
 <br>

@@ -15,24 +15,25 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="Visual Studio Code" width="26px" title ="VSCode" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
 <img align="left" alt="HTML5" width="26px" title ="HTML5" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/HTML.png" />
 <img align="left" alt="CSS3" width="26px" title ="CSS3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CSS.png" />
-<img align="left" alt="CSS3" width="26px" title ="JavaScript" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/JS.png" />
-<img align="left" alt="CSS3" width="26px" title ="SQL" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SQL.png" />
+<img align="left" alt="JavaScript" width="26px" title ="JavaScript" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/JS.png" />
+<img align="left" alt="SQL" width="26px" title ="SQL" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SQL.png" />
 <img align="left" alt="Git" width="26px" title ="GIT" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
 <img align="left" alt="GitHub" width="26px" title ="GitHub" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
 <img align="left" alt="Terminal" width="26px" title ="Terminal" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
-<img align="left" alt="Terminal" width="26px" title ="VBA" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VBA.png" />
-<img align="left" alt="Terminal" width="26px" title ="AutoCAD" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
-<img align="left" alt="Terminal" width="26px" title ="Adobe Photoshop" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ps.png" />
-<img align="left" alt="Terminal" width="26px" title ="Adobe Illustrator" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ai.png" />
+<img align="left" alt="VBA" width="26px" title ="VBA" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VBA.png" />
+<img align="left" alt="AutoCAD" width="26px" title ="AutoCAD" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
+<img align="left" alt="AdobePhotoshop" width="26px" title ="Adobe Photoshop" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ps.png" />
+<img align="left" alt="AdobeIllustrator" width="26px" title ="Adobe Illustrator" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ai.png" />
 
 <br>
 <br>
 
 ### Preferred Dev Environment:
 
-<img align="left" alt="CSS3" width="26px" title ="Microsoft Windows" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/OS_Windows.png" />
-<img align="left" alt="CSS3" width="26px" title ="Chrome" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Chrome.png" />
+<img align="left" alt="MicrosoftWindows" width="26px" title ="Microsoft Windows" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/OS_Windows.png" />
+<img align="left" alt="GoogleChrome" width="26px" title ="Chrome" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Chrome.png" />
 <img align="left" alt="Visual Studio Code" title ="VSCode" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
+<img align="left" alt="MicrosoftSQLServerManagementStudio" title ="VSCode" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SMSS.png" />
 
 <br>
 <br>

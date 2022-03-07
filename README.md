@@ -5,9 +5,9 @@
 I'm Simon Stranks, a self-taught developer from London.
 
 - 🔭 I’m currently working on [First Project Will Go Here :)]()
-- 🌱 I’m currently learning HTML, CSS, and Javascript!
+- 🌱 I’m currently learning React, NodeJS, ThreeJS!
 - 👯 I’m hoping to collaborate with other content creators soon.
-- 🥅 2021 Goals: Complete Harvard CS50 and land my first dev job!
+- 🥅 2022 Goals: Hoping to land my first dev job!
 - ⚡ Fun fact: Avid reader of psychology and philosophy.
 
 ### Languages and Tools:
@@ -16,27 +16,34 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="HTML5" width="26px" title ="HTML5" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/HTML.png" />
 <img align="left" alt="CSS3" width="26px" title ="CSS3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CSS.png" />
 <img align="left" alt="JavaScript" width="26px" title ="JavaScript" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/JS.png" />
-<img align="left" alt="JavaScript" width="26px" title ="Python 3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Python.png" />
+<img align="left" alt="SASS" width="26px" title ="SASS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SASS.png" />
+<img align="left" alt="React" width="26px" title ="React" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/React.png" />
+<img align="left" alt="ThreeJS" width="26px" title ="ThreeJS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/ThreeJS.png" />
+<img align="left" alt="Python" width="26px" title ="Python 3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Python.png" />
 <img align="left" alt="SQL" width="26px" title ="SQL" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SQL.png" />
 <img align="left" alt="Git" width="26px" title ="GIT" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
 <img align="left" alt="GitHub" width="26px" title ="GitHub" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
-<img align="left" alt="Terminal" width="26px" title ="Terminal" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
+<img align="left" alt="Terminal" width="26px" title ="Windows Terminal" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
+<br>
+
+###### Other Tools:  
+
 <img align="left" alt="VBA" width="26px" title ="VBA" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VBA.png" />
 <img align="left" alt="AutoCAD" width="26px" title ="AutoCAD" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
 <img align="left" alt="AdobePhotoshop" width="26px" title ="Adobe Photoshop" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ps.png" />
 <img align="left" alt="AdobeIllustrator" width="26px" title ="Adobe Illustrator" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ai.png" />
 
 <br>
-<br>
 
-### Preferred Dev Environment:
+### Current Dev Environment 💻
+###### VSCode running on Win10:WSL2 Ubuntu SSH server sandbox 🔑 
 
 <img align="left" alt="MicrosoftWindows" width="26px" title ="Microsoft Windows" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/OS_Windows.png" />
-<img align="left" alt="GoogleChrome" width="26px" title ="Chrome" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Chrome.png" />
+<img align="left" alt="Ubuntu" width="26px" title ="WSL Ubuntu" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ubuntu.png" />
 <img align="left" alt="Visual Studio Code" title ="VSCode" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
+<img align="left" alt="GoogleChrome" width="26px" title ="Chrome" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Chrome.png" />
 <img align="left" alt="MicrosoftSQLServerManagementStudio" title ="Microsoft SQL Server Management Studio" width="26px" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SMSS.png" />
 
-<br>
 <br>
 
 ---

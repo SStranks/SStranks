@@ -16,7 +16,7 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="HTML5" width="26px" title ="HTML5" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/HTML.png" />
 <img align="left" alt="CSS3" width="26px" title ="CSS3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CSS.png" />
 <img align="left" alt="JavaScript" width="26px" title ="JavaScript" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/JS.png" />
-<img align="left" alt="NodeJS" width="26px" title ="NodeJS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/NodeJS.png" />
+<img align="left" alt="NodeJS" width="26px" title ="NodeJS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/NodeJS_2.png" />
 <img align="left" alt="SASS" width="26px" title ="SASS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SASS.png" />
 <img align="left" alt="React" width="26px" title ="React" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/React.png" />
 <img align="left" alt="ThreeJS" width="26px" title ="ThreeJS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/ThreeJS.png" />

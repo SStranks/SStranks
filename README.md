@@ -22,6 +22,7 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="ThreeJS" width="26px" title ="ThreeJS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/ThreeJS.png" />
 <img align="left" alt="Python" width="26px" title ="Python 3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Python.png" />
 <img align="left" alt="SQL" width="26px" title ="SQL" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SQL.png" />
+<img align="left" alt="Docker" width="26px" title ="Docker" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Docker.png" />
 <img align="left" alt="Git" width="26px" title ="GIT" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
 <img align="left" alt="GitHub" width="26px" title ="GitHub" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
 <img align="left" alt="Terminal" width="26px" title ="Windows Terminal" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
@@ -37,7 +38,7 @@ I'm Simon Stranks, a self-taught developer from London.
 <br>
 
 ### Current Dev Environment 💻
-###### VSCode running on Win10:WSL2 Ubuntu SSH server sandbox 🔑 
+###### VSCode running on Win10: WSL2 Ubuntu SSH server sandbox: Docker Rootless 🔑 
 
 <img align="left" alt="MicrosoftWindows" width="26px" title ="Microsoft Windows" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/OS_Windows.png" />
 <img align="left" alt="Ubuntu" width="26px" title ="WSL Ubuntu" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ubuntu.png" />

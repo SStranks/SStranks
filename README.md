@@ -10,9 +10,8 @@ I'm Simon Stranks, a self-taught developer from London.
 - 🥅 2022 Goals: Hoping to land my first dev job!
 - ⚡ Fun fact: Avid reader of psychology and philosophy.
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Visual Studio Code" width="26px" title ="VSCode" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
 <img align="left" alt="HTML5" width="26px" title ="HTML5" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/HTML.png" />
 <img align="left" alt="CSS3" width="26px" title ="CSS3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CSS.png" />
 <img align="left" alt="JavaScript" width="26px" title ="JavaScript" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/JS.png" />
@@ -23,11 +22,16 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="ThreeJS" width="26px" title ="ThreeJS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/ThreeJS.png" />
 <img align="left" alt="Python" width="26px" title ="Python 3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Python.png" />
 <img align="left" alt="SQL" width="26px" title ="SQL" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SQL.png" />
+<br>
+
+### Tools:
+<img align="left" alt="Visual Studio Code" width="26px" title ="VSCode" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
 <img align="left" alt="Docker" width="26px" title ="Docker" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Docker.png" />
 <img align="left" alt="Git" width="26px" title ="GIT" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
 <img align="left" alt="GitHub" width="26px" title ="GitHub" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
 <img align="left" alt="Terminal" width="26px" title ="Windows Terminal" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
 <br>
+
 
 ###### Other Tools:  
 

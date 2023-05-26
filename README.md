@@ -28,6 +28,7 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="Visual Studio Code" width="26px" title ="VSCode" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
 <img align="left" alt="Docker" width="26px" title ="Docker" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Docker.png" />
 <img align="left" alt="Webpack 5" width="26px" title ="Webpack 5" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Webpack2.png" />
+<img align="left" alt="Jest" width="26px" title ="Jest" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Jest.png" />
 <img align="left" alt="Git" width="26px" title ="GIT" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
 <img align="left" alt="GitHub" width="26px" title ="GitHub" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
 <img align="left" alt="Terminal" width="26px" title ="Windows Terminal" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />

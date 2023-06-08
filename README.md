@@ -42,6 +42,7 @@ I'm Simon Stranks, a self-taught developer from London.
 <img align="left" alt="AutoCAD" width="26px" title ="AutoCAD" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
 <img align="left" alt="AdobePhotoshop" width="26px" title ="Adobe Photoshop" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ps.png" />
 <img align="left" alt="AdobeIllustrator" width="26px" title ="Adobe Illustrator" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ai.png" />
+<img align="left" alt="Blender" width="26px" title ="Blender" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Blender.png" />
 
 <br>
 

@@ -11,50 +11,20 @@
   - Infrastructure and Tooling.
   - Crafting elegant maintainable code.
 
-**Preferred Roles**: <br/>
-  - Backend or Full-Stack
-
 **Personal Interests**: <br/>
   - Philosophy, Psychology, Personal Fitness and Well-Being. Always reading, learning, and unlearning.
 
-### Languages:
+#### Languages & Tooling:
 
-<img align="left" alt="HTML5" width="26px" title ="HTML5" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/HTML.png" />
-<img align="left" alt="CSS3" width="26px" title ="CSS3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CSS.png" />
-<img align="left" alt="SASS" width="26px" title ="SASS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SASS.png" />
-<img align="left" alt="JavaScript" width="26px" title ="JavaScript" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/JS_2.png" />
-<img align="left" alt="Typescript" width="26px" title ="Typescript" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Typescript.png" />
-<img align="left" alt="React" width="26px" title ="React" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/React.png" />
-<img align="left" alt="NodeJS" width="26px" title ="NodeJS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/NodeJS_2.png" />
-<img align="left" alt="ThreeJS" width="26px" title ="ThreeJS" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/ThreeJS.png" />
-<img align="left" alt="Python" width="26px" title ="Python 3" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Python.png" />
-<img align="left" alt="SQL" width="26px" title ="SQL" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/SQL.png" />
-<br>
-
-### Tools:
-<img align="left" alt="Visual Studio Code" width="26px" title ="VSCode" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VSCode2.png" />
-<img align="left" alt="Docker" width="26px" title ="Docker" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Docker.png" />
-<img align="left" alt="Webpack 5" width="26px" title ="Webpack 5" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Webpack2.png" />
-<img align="left" alt="Nginx" width="26px" title ="Nginx" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Nginx.png" />
-<img align="left" alt="Jest" width="26px" title ="Jest" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Jest.png" />
-<img align="left" alt="Git" width="26px" title ="GIT" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GIT.png" />
-<img align="left" alt="GitHub" width="26px" title ="GitHub" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/GitHub.png" />
-<img align="left" alt="Terminal" width="26px" title ="Windows Terminal" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Terminal.png" />
-<br>
-
-
-###### Other Tools:  
-
-<img align="left" alt="VBA" width="26px" title ="VBA" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/VBA.png" />
-<img align="left" alt="AutoCAD" width="26px" title ="AutoCAD" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/CAD.png" />
-<img align="left" alt="AdobePhotoshop" width="26px" title ="Adobe Photoshop" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ps.png" />
-<img align="left" alt="AdobeIllustrator" width="26px" title ="Adobe Illustrator" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ai.png" />
-<img align="left" alt="Blender" width="26px" title ="Blender" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Blender.png" />
-
-<br>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![GNU Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://pubs.opengroup.org/onlinepubs/9799919799/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)](https://pnpm.io/)
+[![Debian](https://img.shields.io/badge/Debian%20Trixie%20x86/64-a81d33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
 ### Current Dev Environment 💻
-###### VSCode running on Win10: WSL2 Ubuntu SSH server sandbox: Docker Rootless 🔑 
+###### VSCode running on Win10; WSL2 Debian Trixie over remote SSH; Docker Rootless 🔑 
 
 <img align="left" alt="MicrosoftWindows" width="26px" title ="Microsoft Windows" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/OS_Windows.png" />
 <img align="left" alt="Ubuntu" width="26px" title ="WSL Ubuntu" src="https://github.com/SStranks/MyFirstRepository/blob/master/Icons/Ubuntu.png" />

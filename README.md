@@ -1,14 +1,21 @@
-### Hi there, I'm Simon. Welcome to my GitHub! 👋
+### _Full-Stack Developer with a focus on Backend and implementing best DevOps practices. Self-Taught_
 
-<br>
+**Currently**: <br/>
+  - **Building:** <a href="https://github.com/SStranks/tech-expo" target="_blank">`Tech-Expo: CRM`</a>; a Typescript PNPM monorepo project; with Docker, GraphQL, ExpressJS, React, and lots more!
+  - **Reading:** <a href="https://www.goodreads.com/en/book/show/57345270-modern-software-engineering" target="_blank">`Modern Software Engineering: Doing What Works to Build Better Software Faster`</a>, by _David Farley_
 
-I'm Simon Stranks, a self-taught developer from London.
+**Interests**: <br/>
+  - API Design.
+  - System Design and Architecture.
+  - Developer Experience.
+  - Infrastructure and Tooling.
+  - Crafting elegant maintainable code.
 
-- 🔭 I’m currently working on [First Project Will Go Here :)]()
-- 🌱 I’m currently learning React, NodeJS, ThreeJS!
-- 👯 I’m hoping to collaborate with other content creators soon.
-- 🥅 2022 Goals: Hoping to land my first dev job!
-- ⚡ Fun fact: Avid reader of psychology and philosophy.
+**Preferred Roles**: <br/>
+  - Backend or Full-Stack
+
+**Personal Interests**: <br/>
+  - Philosophy, Psychology, Personal Fitness and Well-Being. Always reading, learning, and unlearning.
 
 ### Languages:
 

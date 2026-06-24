@@ -1,4 +1,4 @@
-### _Full-Stack Developer with a focus on Backend and implementing best DevOps practices. Self-Taught_
+### _Full-Stack Developer with a focus on Backend and implementing best DevOps practices_
 
 **Currently**: <br/>
   - **Building:** <a href="https://github.com/SStranks/tech-expo" target="_blank">`Tech-Expo: CRM`</a> a production-style Typescript PNPM monorepo project - see [Featured](#featured)
@@ -18,6 +18,16 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![GNU Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://pubs.opengroup.org/onlinepubs/9799919799/)
+
+#### Primary Technologies:
+
+###### For a complete breakdown of the technologies, tooling, infrastructure, and architecture used in my current capstone project, see the [Tech Expo: Tech-Stack](https://github.com/SStranks/tech-expo/tree/main#tech-stack)
+
+[![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 
 #### Current Dev Environment
 

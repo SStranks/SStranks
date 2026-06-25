@@ -1,7 +1,7 @@
 ### _Full-Stack Developer with a focus on Backend and implementing best DevOps practices_
 
 **Currently**: <br/>
-  - **Building:** <a href="https://github.com/SStranks/tech-expo" target="_blank">`Tech-Expo: CRM`</a> a production-style Typescript PNPM monorepo project - see [Featured](#featured)
+  - **Building:** <a href="https://github.com/SStranks/tech-expo" target="_blank">`Tech-Expo: CRM`</a> a production-style Typescript PNPM monorepo project - see [Featured](#featured:-tech-expo)
   - **Reading:** <a href="https://www.goodreads.com/en/book/show/57345270-modern-software-engineering" target="_blank">`Modern Software Engineering: Doing What Works to Build Better Software Faster`</a>, by _David Farley_
 
 **Interests**: <br/>

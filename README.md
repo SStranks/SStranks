@@ -1,18 +1,21 @@
 ### _Full-Stack Developer with a focus on Backend and implementing best DevOps practices_
 
 **Currently**: <br/>
-  - **Building:** <a href="https://github.com/SStranks/tech-expo" target="_blank">`Tech-Expo: CRM`</a> a production-style Typescript PNPM monorepo project - see [Featured](#featured-tech-expo)
-  - **Reading:** <a href="https://www.goodreads.com/en/book/show/57345270-modern-software-engineering" target="_blank">`Modern Software Engineering: Doing What Works to Build Better Software Faster`</a>, by _David Farley_
+
+- **Building:** <a href="https://github.com/SStranks/tech-expo" target="_blank">`Tech-Expo: CRM`</a> a production-style Typescript PNPM monorepo project - see [Featured](#featured-tech-expo)
+- **Reading:** <a href="https://www.goodreads.com/en/book/show/57345270-modern-software-engineering" target="_blank">`Modern Software Engineering: Doing What Works to Build Better Software Faster`</a>, by _David Farley_
 
 **Interests**: <br/>
-  - API Design.
-  - System Design and Architecture.
-  - Developer Experience.
-  - Infrastructure and Tooling.
-  - Crafting elegant maintainable code.
+
+- API Design.
+- System Design and Architecture.
+- Developer Experience.
+- Infrastructure and Tooling.
+- Crafting elegant maintainable code.
 
 **Personal Interests**: <br/>
-  - Philosophy, Psychology, Personal Fitness and Well-Being. Always reading, learning, and unlearning.
+
+- Philosophy, Psychology, Personal Fitness and Well-Being. Always reading, learning, and unlearning.
 
 #### Languages:
 
@@ -35,7 +38,7 @@
 
 ###### VSCode running on Win10; WSL2 Debian Trixie over remote SSH; Docker Rootless
 
-[![VSCode](https://github.com/SStranks/MyFirstRepository/blob/master/Icons/vscode-custom-badgeIO.svg)](https://code.visualstudio.com)
+[![VSCode](https://sstranks.github.io/SStranks/assets/vscode_custom_badgeIO.svg)](https://code.visualstudio.com)
 [![WSL2](https://img.shields.io/badge/WSL2-000000?style=for-the-badge&logo=linux&logoColor=ffcc33)](https://learn.microsoft.com/en-us/windows/wsl/install)
 [![Debian](https://img.shields.io/badge/Debian%20Trixie%20x86/64-a81d33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![W10 Terminal](https://img.shields.io/badge/W10%20Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal)](https://learn.microsoft.com/en-us/windows/terminal/install)

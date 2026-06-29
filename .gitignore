@@ -1,0 +1,63 @@
+# Secrets
+**/.secret.*
+**/*.secret.*
+**/.htpasswd
+
+# Certs
+**/certs/prod/**
+**/*.key
+**/*.pem
+**/*.crt
+**/*.csr
+**/*.srl
+**/*.ext
+**/*.cnf
+!**/certs/**/
+!**/certs/**/example.*
+!**/certs/**/README.md
+
+# Env files - Decrypted
+**/*.env
+**/.env.*
+# Env files - Encrypted
+!**/.env.*.enc
+
+# Dependencies
+**/node_modules
+
+# Public
+**/public
+**/dist
+**/_dist
+
+# Logs
+logs/
+**/*.log
+**/webpack/stats/
+
+# Drizzle 
+**/drizzle/migrations
+
+# Testing
+**/coverage
+
+# Generated Files
+**/graphql/generated/
+**/*.tsbuildinfo
+
+# Private Files
+**/private.*
+**/private
+**/temp
+
+# FrontEndMentor
+*.sketch
+*.xd
+*.fig
+.DS_Store
+
+# VSCode
+**/.vscode
+
+# Mega-Linter
+megalinter-reports/
